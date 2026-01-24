@@ -1,5 +1,6 @@
 # Block-Fill-game
 I made a replica of the offline block fill game.
+You can also check out the executable file version on my itch.io page - https://ocxy224.itch.io/
 
 The rules are simple, you have to start from the given square and move to the end square (which is not explicitly marked) while covering the entire space and leaving no squared uncoloured.
 To move, use WASD or the arrow keys.
