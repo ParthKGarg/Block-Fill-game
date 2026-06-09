@@ -13,6 +13,7 @@ import random
 
 # Solver for the levels
 # mouse play system
+# better keys play system hold to fill automatically
 
 pygame.init()
 pygame.display.set_caption("Block Fill")
