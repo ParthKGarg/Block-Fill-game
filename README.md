@@ -9,3 +9,9 @@ To quit the window, use Q.
 There is not level system, each time you open and close the program you will find a new level.
 
 Thanks
+
+<br>
+
+Author
+<br>
+Parth Kumar Garg
